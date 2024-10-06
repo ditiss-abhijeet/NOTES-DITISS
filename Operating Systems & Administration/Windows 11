@@ -1,0 +1,100 @@
+Windows 11 has several editions, each tailored for different types of users and devices. Here’s a comparison of the main editions, along with their maximum CPU and RAM support:
+
+Windows 11 Editions
+
+1. Windows 11 Home
+
+Target Users: General consumers and home users.
+
+Max RAM: 128 GB
+
+Max CPUs: Supports up to 1 CPU with 64 cores.
+
+
+
+2. Windows 11 Pro
+
+Target Users: Professionals and small businesses.
+
+Max RAM: 2 TB
+
+Max CPUs: Supports up to 1 CPU with 64 cores.
+
+Additional Features: BitLocker, Remote Desktop, Group Policy Management.
+
+
+
+3. Windows 11 Pro for Workstations
+
+Target Users: Advanced users and professionals needing high performance.
+
+Max RAM: 6 TB
+
+Max CPUs: Supports up to 4 CPUs with 64 cores each.
+
+Additional Features: ReFS (Resilient File System), faster file sharing.
+
+
+
+4. Windows 11 Enterprise
+
+Target Users: Large organizations.
+
+Max RAM: 2 TB
+
+Max CPUs: Supports up to 1 CPU with 64 cores.
+
+Additional Features: Advanced security features, virtualization options, and deployment tools.
+
+
+
+5. Windows 11 Education
+
+Target Users: Educational institutions.
+
+Max RAM: 2 TB
+
+Max CPUs: Supports up to 1 CPU with 64 cores.
+
+Additional Features: Similar to Windows 11 Enterprise but tailored for schools.
+
+
+
+6. Windows 11 SE
+
+Target Users: Education-focused devices (e.g., affordable laptops for students).
+
+Max RAM: 16 GB
+
+Max CPUs: Supports up to 1 CPU with 64 cores.
+
+Additional Features: Simplified interface, limited to Microsoft Store apps.
+
+
+
+
+Summary of Maximum Support
+
+Max RAM:
+
+Home: 128 GB
+
+Pro: 2 TB
+
+Pro for Workstations: 6 TB
+
+Enterprise: 2 TB
+
+Education: 2 TB
+
+SE: 16 GB
+
+
+Max CPUs:
+
+All editions except Pro for Workstations: 1 CPU with 64 cores.
+
+Pro for Workstations: 4 CPUs with 64 cores each.
+
+
+
