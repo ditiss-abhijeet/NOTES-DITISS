@@ -96,5 +96,30 @@ All editions except Pro for Workstations: 1 CPU with 64 cores.
 
 Pro for Workstations: 4 CPUs with 64 cores each.
 
+Windows 11 LTSC (Long-Term Servicing Channel) has similar hardware specifications to other Windows 11 editions. Here are the key specifications regarding CPU and RAM support:
+
+Windows 11 LTSC Specifications
+
+Max RAM:
+
+2 TB (for systems with compatible hardware).
+
+
+Max CPU Support:
+
+1 CPU with up to 64 cores.
+
+
+
+
+Update Cycle: LTSC versions receive security updates for a longer period (typically 5 years of mainstream support, plus 5 years of extended support).
+
+Target Use: Designed for specialized use cases, such as embedded systems, industrial devices, and environments where stability and long-term support are critical.
+
+
+For general consumer or business use, the standard editions of Windows 11 may be more appropriate unless specific LTSC features are required.
+
+
+
 
 
